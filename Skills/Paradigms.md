@@ -5,13 +5,13 @@
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming: 👂 heard
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming: 👂 heard
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming
+  - Asyncronous programming: 🎓 known
   - Parallel programming
   - Reactive programming
   - FRP (Functional-reactive)
@@ -21,18 +21,18 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
-  - new
+  - constructor: 🖐️ used
+  - new: 🖐️ used
   - Static method
   - Method
   - Async method
   - Getters, Setters
-  - Public fields
-  - Private fields
+  - Public fields: 👂 heard
+  - Private fields: 👂 heard
   - Field declarations
   - Inheritance
-  - Parent class
-  - Polymorphism
+  - Parent class: 🎓 known
+  - Polymorphism: 👂 heard
   - Abstract class
   - Interface
   - Encapsulation
@@ -58,7 +58,7 @@
   - Builder
   - Prototype
   - Composite
-  - Decorator
+  - Decorator: 👂 heard
   - Flyweight
   - Mediator
   - Memento
