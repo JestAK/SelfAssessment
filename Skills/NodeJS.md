@@ -11,14 +11,14 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
+  - CommonJS modules: 🖐️ used
   - ECMAScript modules
   - node:module
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules: 🖐️ used
+  - Dependencies: package.json and package lock: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -94,7 +94,7 @@
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST: 👂 heard
   - RPC
   - Routing
   - DoS
@@ -103,14 +103,14 @@
   - Path traversal
   - CSRF
   - DNS
-  - Fetch API
+  - Fetch API: 👂 heard
   - IncomingMessage
   - SQL injection
   - noDelay
   - keep-alive
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates: 👂 heard
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
@@ -138,8 +138,8 @@
 - Error handling and debugging
   - Error
   - error.cause
-  - error.code
-  - error.message
+  - error.code: 🖐️ used
+  - error.message: 🖐️ used
   - error.stack
   - How to avoid mixins
   - Error.captureStackTrace
