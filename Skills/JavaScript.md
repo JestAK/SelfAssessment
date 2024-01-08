@@ -9,10 +9,10 @@
   - bind
   - apply
   - instanceof
-  - ...spread
-  - ...rest
+  - ...spread: 🖐️ used
+  - ...rest: 🖐️ used
   - typeof: 🖐️ used
-  - destructuring
+  - destructuring: 🎓 known
   - generator
   - iterator: 👂 heard
   - async generator
@@ -24,20 +24,20 @@
   - globalThis
   - window: 👂 heard
   - getters and setters
-  - __proto__
-  - prototype
+  - __proto__: 👂 heard
+  - prototype: 👂 heard
   - equality operators: 🖐️ used
   - logical operators: 🖐️ used
   - bitwise operators: 🎓 known
   - ternary operator: 🖐️ used
   - void
   - yield
-  - await
-  - template literal
+  - await: 🖐️ used
+  - template literal: 🖐️ used
   - strict mode: 🎓 known
   - delete: 🎓 known
   - in: 🎓 known
-  - super
+  - super: 🖐️ used
   - Symbol: 👂 heard
   - Reflect
 - Statements
@@ -48,16 +48,16 @@
   - for..in: 🖐️ used
   - for..of: 🖐️ used
   - for await
-  - throw
+  - throw: 🖐️ used
   - break: 🖐️ used
   - continue: 🖐️ used
-  - import: 👂 heard
-  - export
+  - import: 🖐️ used
+  - export: 🖐️ used
   - label
-  - try..catch: 🎓 known
+  - try..catch: 🖐️ used
   - switch: 🖐️ used
-  - class: 👂 heard
-  - new Error
+  - class: 🖐️ used
+  - new Error: 🖐️ used
   - with
 - Functions
   - function declaration: 🖐️ used
@@ -68,10 +68,10 @@
 - Data structures
   - Array: 🖐️ used
   - mixin
-  - extend
+  - extend: 🎓 known
   - typed arrays
-  - Map
-  - Set
+  - Map: 🎓 known
+  - Set: 🎓 known
   - undefined: 🖐️ used
   - null: 🖐️ used
   - Proxy
@@ -83,7 +83,7 @@
   - BigInt: 🎓 known
 - Infrastructure
   - V8
-  - Node.js: 👂 heard
-  - npm
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
   - prettier: 🖐️ used
   - MDN: 🖐️ used
