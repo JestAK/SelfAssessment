@@ -1,89 +1,89 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
+  - Object: 🖐️ used
+  - this: 🖐️ used
+  - arrow function: 🖐️ used
+  - async function: 👂 heard
   - call
   - bind
   - apply
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof: 🖐️ used
   - destructuring
   - generator
-  - iterator
+  - iterator: 👂 heard
   - async generator
   - async iterator
   - chaining
   - optional chaining
   - IIFE
-  - global
+  - global: 👂 heard
   - globalThis
-  - window
+  - window: 👂 heard
   - getters and setters
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
+  - equality operators: 🖐️ used
+  - logical operators: 🖐️ used
+  - bitwise operators: 🎓 known
+  - ternary operator: 🖐️ used
   - void
   - yield
   - await
   - template literal
-  - strict mode
-  - delete
-  - in
+  - strict mode: 🎓 known
+  - delete: 🎓 known
+  - in: 🎓 known
   - super
-  - Symbol
+  - Symbol: 👂 heard
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
+  - for..in: 🖐️ used
+  - for..of: 🖐️ used
   - for await
   - throw
-  - break
-  - continue
-  - import
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 👂 heard
   - export
   - label
-  - try..catch
-  - switch
-  - class
+  - try..catch: 🎓 known
+  - switch: 🖐️ used
+  - class: 👂 heard
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
+  - return: 🖐️ used
+  - default parameters: 🎓 known
   - functional object
 - Data structures
-  - Array
+  - Array: 🖐️ used
   - mixin
   - extend
   - typed arrays
   - Map
   - Set
-  - undefined
-  - null
+  - undefined: 🖐️ used
+  - null: 🖐️ used
   - Proxy
   - weak collections
   - timers
   - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - RegExp: 👂 heard
+  - Date: 🎓 known
+  - BigInt: 🎓 known
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js: 👂 heard
   - npm
-  - prettier
-  - MDN
+  - prettier: 🖐️ used
+  - MDN: 🖐️ used
