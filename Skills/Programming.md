@@ -8,12 +8,12 @@
   - scalar: 🖐️ used
   - literal: 🖐️ used
   - expression: 🖐️ used
-  - heap
+  - heap: 🎓 known
   - function: 🖐️ used
   - procedure: 🖐️ used
   - method: 🖐️ used
-  - class: 👂 heard
-  - prototype
+  - class: 🖐️ used
+  - prototype: 👂 heard
   - event: 🎓 known
   - type: 🎓 known
   - primitive types: 🎓 known
@@ -25,12 +25,12 @@
   - loops: 🖐️ used
   - assignment: 🖐️ used
   - regular expression: 👂 heard
-  - interface
+  - interface: 👂 heard
   - contract
-  - module: 👂 heard
+  - module: 🖐️ used
   - call stack: 🎓 known
 - Functions
-  - signature
+  - signature: 👂 heard
   - argument: 🖐️ used
   - parameter: 🖐️ used
   - pure function: 🖐️ used
@@ -44,8 +44,8 @@
   - callback: 🖐️ used
   - listener: 🖐️ used
   - compose
-  - pipe
-  - memoize
+  - pipe: 👂 heard
+  - memoize: 🖐️ used
   - wrapper
   - functor
   - monad
@@ -56,10 +56,10 @@
   - array: 🖐️ used
   - structure
   - record
-  - enum: 👂 heard
+  - enum: 🖐️ used
   - instance
   - object: 🖐️ used
-  - class: 👂 heard
+  - class: 🖐️ used
   - collection: 🖐️ used
   - set
   - hash table
@@ -79,21 +79,21 @@
   - string parsing: 🖐️ used
 - Process & style
   - compiler: 🎓 known
-  - transpiler
+  - transpiler: 🎓 known
   - linter: 🖐️ used
   - polyfill: 🎓 known
   - debugger: 🖐️ used
-  - garbage collection: 👂 heard
-  - refactoring
+  - garbage collection: 🎓 known
+  - refactoring: 👂 heard
   - code review: 👂 heard
-  - antipatterns
-  - paradigm
-  - algorithm: 👂 heard
+  - antipatterns: 👂 heard
+  - paradigm: 👂 heard
+  - algorithm: 🎓 known
   - magic numbers: 🖐️ used
   - hardcode: 🖐️ used
   - complexity
   - decomposition
-  - spaghetti
+  - spaghetti: 🎓 known
   - silver bullet
   - not invented here
   - dead code
