@@ -5,10 +5,10 @@
   - this: 🖐️ used
   - arrow function: 🖐️ used
   - async function: 👂 heard
-  - call
-  - bind
-  - apply
-  - instanceof
+  - call: 🎓 known
+  - bind: 🎓 known
+  - apply: 🎓 known
+  - instanceof: 🎓 known
   - ...spread: 🖐️ used
   - ...rest: 🖐️ used
   - typeof: 🖐️ used
@@ -19,7 +19,7 @@
   - async iterator
   - chaining
   - optional chaining
-  - IIFE
+  - IIFE: 👂 heard
   - global: 👂 heard
   - globalThis
   - window: 👂 heard
@@ -36,7 +36,7 @@
   - template literal: 🖐️ used
   - strict mode: 🎓 known
   - delete: 🎓 known
-  - in: 🎓 known
+  - in: 🖐️ used
   - super: 🖐️ used
   - Symbol: 👂 heard
   - Reflect
@@ -64,7 +64,7 @@
   - function expression: 🖐️ used
   - return: 🖐️ used
   - default parameters: 🎓 known
-  - functional object
+  - functional object: 👂 heard
 - Data structures
   - Array: 🖐️ used
   - mixin
@@ -76,9 +76,9 @@
   - null: 🖐️ used
   - Proxy
   - weak collections
-  - timers
+  - timers: 🎓 known
   - EventEmitter
-  - RegExp: 👂 heard
+  - RegExp: 🖐️ used
   - Date: 🎓 known
   - BigInt: 🎓 known
 - Infrastructure
