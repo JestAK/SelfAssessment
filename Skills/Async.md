@@ -59,18 +59,18 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
-  - nextTick
+  - Timers 🎓 known
+  - setImmediate: 👂 heard
+  - nextTick: 👂 heard
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
   - child_process
-  - worker_threads
+  - worker_threads: 👂 heard
   - Atomics
   - High resolution clock
-  - Callback hell
+  - Callback hell: 👂 heard
   - Promise hell
   - ref() and unref()
   - Error handling in async code
