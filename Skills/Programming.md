@@ -24,7 +24,7 @@
   - conditions: 🖐️ used
   - loops: 🖐️ used
   - assignment: 🖐️ used
-  - regular expression: 👂 heard
+  - regular expression: 🖐️ used
   - interface: 👂 heard
   - contract
   - module: 🖐️ used
@@ -36,7 +36,7 @@
   - pure function: 🖐️ used
   - lambda expression: 🖐️ used
   - side effects
-  - closure
+  - closure: 🎓 known
   - partial application
   - curry
   - higher order: 🎓 known
@@ -46,7 +46,7 @@
   - compose
   - pipe: 👂 heard
   - memoize: 🖐️ used
-  - wrapper
+  - wrapper: 🖐️ used
   - functor
   - monad
   - monoid
@@ -63,15 +63,15 @@
   - collection: 🖐️ used
   - set
   - hash table
-  - linked list
+  - linked list: 🖐️ used
   - doubly list
   - unrolled list
   - circular list
-  - queue
-  - stack
+  - queue: 🎓 known
+  - stack: 🎓 known
   - deque
-  - tree
-  - graph
+  - tree: 🎓 known
+  - graph: 🖐️ used
   - iterator
   - mutable state
   - immutable state
@@ -94,13 +94,13 @@
   - complexity
   - decomposition
   - spaghetti: 🎓 known
-  - silver bullet
+  - silver bullet: 🎓 known
   - not invented here
   - dead code
   - unreachable code: 🎓 known
   - duplicate code: 🖐️ used
   - exception: 🎓 known
   - return early
-  - unittest
+  - unittest: 👂 heard
   - git: 🖐️ used
   - github: 🖐️ used
