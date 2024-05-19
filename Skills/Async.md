@@ -60,17 +60,17 @@
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers 🎓 known
-  - setImmediate 👂 heard
-  - nextTick 👂 heard
+  - setImmediate: 👂 heard
+  - nextTick: 👂 heard
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
   - child_process
-  - worker_threads 👂 heard
+  - worker_threads: 👂 heard
   - Atomics
   - High resolution clock
-  - Callback hell 👂 heard
+  - Callback hell: 👂 heard
   - Promise hell
   - ref() and unref()
   - Error handling in async code
