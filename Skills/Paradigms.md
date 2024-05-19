@@ -5,9 +5,9 @@
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming: 👂 heard
+  - Functional programming: 🖐️ used
   - Prototype-based programming
-  - Object-oriented programming: 👂 heard
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -24,7 +24,7 @@
   - constructor: 🖐️ used
   - new: 🖐️ used
   - Static method
-  - Method
+  - Method: 🖐️ used
   - Async method
   - Getters, Setters
   - Public fields: 👂 heard
